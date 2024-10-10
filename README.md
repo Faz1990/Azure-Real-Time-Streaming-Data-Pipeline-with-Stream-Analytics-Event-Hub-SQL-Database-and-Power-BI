@@ -6,7 +6,7 @@ This project demonstrates the creation of a **real-time streaming data pipeline*
 
 ## Architecture Diagram
 
-![Azure Data Pipeline Architecture](Azure_Data_Pipeline_Architecture.png)
+![Azure Data Pipeline Architecture](Architecture.Avif)
 
 ## Table of Contents
 1. [Project Description](#project-description)
