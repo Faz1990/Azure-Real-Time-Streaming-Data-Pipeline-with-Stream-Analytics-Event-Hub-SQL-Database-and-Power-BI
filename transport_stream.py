@@ -75,17 +75,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-# countries = header[:-1].split(',')[1:]
-# connection_str = 'Endpoint=sb://weather-data-eventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=AXgSPNVwK+ZGB8wdK5tdF1bNsduLFgSsGRd4bsJiT2I='
