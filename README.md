@@ -79,7 +79,7 @@ This project features interactive **Power BI visualizations** to provide **actio
 These visualizations offer a clear, **data-driven story** about the movement and preferences of various demographics, which can be crucial for planning and optimization in urban transportation management.
 
 ### Download the Full Report
-For an interactive experience, you can download the full **Power BI report** [here](./Power_BI/Azure_Streaming_Report.pbix).
+For an interactive experience, you can download the full **Power BI report** [here](Transport Data Visualisation.pbix).
 
 ## What I Learned
 
@@ -100,12 +100,4 @@ For an interactive experience, you can download the full **Power BI report** [he
 ## License
 
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute the code as per the terms of the license.
-
----
-
-### Why This Project Stands Out
-
-This project demonstrates **real-world expertise** in building a comprehensive data pipeline that handles both **batch and real-time workloads**, utilizing **cutting-edge Azure technologies**. By integrating **Azure Stream Analytics** with **Azure Event Hub** and **SQL Database**, it replicates the kind of data-driven infrastructure necessary for modern data-intensive applications. Whether handling **predictive analytics** or **business intelligence**, this project showcases my ability to architect and deploy **scalable, efficient data solutions**—skills that are highly in demand in today's data engineering landscape.
-
-Feel free to explore the repository, and don't hesitate to reach out if you have any questions or suggestions!
 
