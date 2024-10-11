@@ -1,4 +1,4 @@
-# Azure Real-Time Streaming Data Pipeline with Stream Analytics, Event Hub, and SQL Database
+# Azure Real-Time Streaming Data Pipeline with Stream Analytics, Event Hub, SQL Database, and Power BI Visualizations
 
 ## Project Description
 
