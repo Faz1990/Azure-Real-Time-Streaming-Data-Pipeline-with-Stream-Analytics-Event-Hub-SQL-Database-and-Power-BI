@@ -60,7 +60,7 @@ azure-streaming-data-pipeline/
 ├── README.md                              # Detailed documentation of the project
 ├── transport_stream.py                    # Python script to send data to Azure Event Hub for streaming
 ├── transportation.csv                     # Sample dataset used for data ingestion
-├── Power Bi Visualisations                # Power Bi visualisations of data
+├── Transport Data Visualisation           # Power Bi visualisations of transport data
 
 ```
 
