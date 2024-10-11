@@ -16,9 +16,10 @@ This project showcases my ability to create a **high-performance, scalable data 
 4. [Technologies Used](#technologies-used)
 5. [Usage](#usage)
 6. [File Structure](#file-structure)
-7. [What I Learned](#what-i-learned)
-8. [Improvements (If I Had More Time)](#improvements-if-i-had-more-time)
-9. [License](#license)
+7. [Power BI Visualizations](#power-bi-visualizations)
+8. [What I Learned](#what-i-learned)
+9. [Improvements (If I Had More Time)](#improvements-if-i-had-more-time)
+10. [License](#license)
 
 ## Batch Processing
 
@@ -61,8 +62,23 @@ azure-streaming-data-pipeline/
 ├── transport_stream.py                    # Python script to send data to Azure Event Hub for streaming
 ├── transportation.csv                     # Sample dataset used for data ingestion
 ├── Transport Data Visualisation           # Power Bi visualisations of transport data
-
 ```
+
+## Power BI Visualizations
+
+### Overview
+This project features interactive **Power BI visualizations** to provide **actionable insights** from the streaming and batch data. The visualizations were designed to help decision-makers quickly identify trends and patterns within the transportation data.
+
+#### Key Insights Provided:
+- **Total Population Using Transport Modes by Ethnicity and Mode of Transport**: A comprehensive breakdown of transport mode preferences across different ethnicities, which can provide insights into demographic patterns and preferences.
+  
+- **Proportion of Population by Transportation Mode**: A visual overview showing the breakdown of various modes of transportation used across the dataset.
+  ![Population by Transport Mode](Transport Data Visualisation.png)
+
+These visualizations offer a clear, **data-driven story** about the movement and preferences of various demographics, which can be crucial for planning and optimization in urban transportation management.
+
+### Download the Full Report
+For an interactive experience, you can download the full **Power BI report** [here](./Power_BI/Azure_Streaming_Report.pbix).
 
 ## What I Learned
 
@@ -84,4 +100,11 @@ azure-streaming-data-pipeline/
 
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute the code as per the terms of the license.
 
+---
+
+### Why This Project Stands Out
+
+This project demonstrates **real-world expertise** in building a comprehensive data pipeline that handles both **batch and real-time workloads**, utilizing **cutting-edge Azure technologies**. By integrating **Azure Stream Analytics** with **Azure Event Hub** and **SQL Database**, it replicates the kind of data-driven infrastructure necessary for modern data-intensive applications. Whether handling **predictive analytics** or **business intelligence**, this project showcases my ability to architect and deploy **scalable, efficient data solutions**—skills that are highly in demand in today's data engineering landscape.
+
+Feel free to explore the repository, and don't hesitate to reach out if you have any questions or suggestions!
 
