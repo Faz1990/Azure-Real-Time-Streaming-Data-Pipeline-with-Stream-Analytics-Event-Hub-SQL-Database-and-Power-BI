@@ -74,9 +74,9 @@ This project features interactive **Power BI visualizations** to provide **actio
 
 - **Total Population Using Transport Modes by Ethnicity and Mode of Transport**: A comprehensive breakdown of transport mode preferences across different ethnicities, which can provide insights into demographic patterns and preferences.
   
-  ![Total Population Using Transport Modes by Ethnicity and Mode of Transport](Transport%20Data%20Visualisation.png)
-
 - **Proportion of Population by Transportation Mode**: A visual overview showing the breakdown of various modes of transportation used across the dataset.
+
+  ![Total Population Using Transport Modes by Ethnicity and Mode of Transport](Transport%20Data%20Visualisation.png)
 
 ### Download the Full Report
 
